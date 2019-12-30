@@ -1,4 +1,4 @@
-![](./image/me.ico)
+![](https://github.com/lgtbp/lp_tool/blob/master/image/me.ico)
 # lp tool多功能工具
 * lptool使用stm32f401cc做主控。利用其所有io，还有复用了几个io！以实现daplink,cdc串口，mscU盘，电流和电压检测，预留spi和iic的下载和调试功能，还有2个io。
 * 开源电路图(禁止用于商业)，提供boot loader(bin文件)，app地址偏移0xc000.进入bootloader模式按着key1键开机，电脑出现U盘符号，把app文件复制到U盘内即可，app文件需经过lptool.exe软件处理后。
@@ -26,4 +26,4 @@
 * 对外供电：电池电压和3.3V（与mcu独立供电），5V(连接usb)
 
 ### 对外输入输出io
-![](./image/io.png)
+![](https://github.com/lgtbp/lp_tool/blob/master/image/io.png)
