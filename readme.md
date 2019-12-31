@@ -27,3 +27,5 @@
 
 ### 对外输入输出io
 ![](https://github.com/lgtbp/lp_tool/blob/master/image/io.png)
+* 正面照片
+![](https://github.com/lgtbp/lp_tool/blob/master/image/tool.png)
